@@ -1,6 +1,6 @@
 # Mini Laravel-like framework
 
-#### I created this framework to learn how laravel work and help me get better at php.
+#### I created this framework to learn how laravel works behind the scene and help me get better at php.
 
 ### This framework has features like :
 - Routing
